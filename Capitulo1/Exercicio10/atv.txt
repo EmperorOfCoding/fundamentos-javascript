@@ -1,0 +1,3 @@
+Usando o array frutas do exercicio anterior use o método join para criar uma string que contenha
+todas as frutas separadas por vírgulas. Em seguida, use o método slice para criar um novo array que contenha
+apenas a segunda e a terceira fruta.

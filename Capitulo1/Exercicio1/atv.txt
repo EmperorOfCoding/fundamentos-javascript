@@ -1,0 +1,5 @@
+Uso de Operadores:
+Declare tres variaveis a, b e c. Defina valores para a e b.
+Use operadores para c ser igual a mais b, depois a menor b, e finalmente a dividido por b. Imprima os resultados no console.
+
+

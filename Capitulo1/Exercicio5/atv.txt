@@ -1,0 +1,1 @@
+Escreva uma funcao chamada "saudacao" que aceita um argumento chamado 'nome'. A funcao deve retornar a string "Olá {nome}!".

@@ -1,0 +1,3 @@
+Funcoes com múltiplos parametros: Crie uma funcao chamada
+'soma' que aceita dois argumentos, 'num1' e 'num2'. A funcao
+deve retornar a soma desses dois números

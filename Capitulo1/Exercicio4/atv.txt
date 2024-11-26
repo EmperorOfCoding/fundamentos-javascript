@@ -1,0 +1,1 @@
+Crie um loop for que imprima os numeros de 1 a 10 no console

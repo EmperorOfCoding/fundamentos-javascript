@@ -1,0 +1,4 @@
+Funcao com estrutura condicional: Crie uma funcao chamada 
+'parouimpar' que aceita um número como argumento. A funcao
+deve retornar "par" se o número for par e "impar" se o
+numero for impar.

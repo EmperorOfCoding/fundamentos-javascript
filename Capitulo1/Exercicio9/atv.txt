@@ -1,0 +1,2 @@
+Crie um array chamado frutas e adicione tres tipos de frutas a ele. Use o método push para adicionar
+uma quarta fruta, depois use o método shift para remover a primeira fruta do array.

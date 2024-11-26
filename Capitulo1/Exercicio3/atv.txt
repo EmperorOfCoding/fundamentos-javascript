@@ -1,0 +1,1 @@
+Escreva um programa que aceite a idade de uma pessoa e imprima uma mensagem se a pessoa for maior que 18 anos dizendo "voce é maior de idade"

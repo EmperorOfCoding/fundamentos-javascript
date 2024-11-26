@@ -1,0 +1,4 @@
+Crie uma funcao chamada "teste-escopo" que define uma
+variável local dentro da funcao e tente acessar essa variavel
+fora da funcao para ver o que acontece
+

@@ -1,0 +1,5 @@
+Crie duas variáveis, uma com número e outra com uma string.
+Tente somá-las e veja o resultado.
+
+Depois converta o string em um número e tente a soma denovo.
+
