@@ -1,0 +1,6 @@
+Selecionando Elementos:
+Crie um arquivo HTML com vários tipos de elementos, como p,
+div, h1, etc. No seu arquivo JavaScript, selecione cada um
+desses elementos usando tanto getElementById, getElementsByClassName,
+getElementsByTagName e querySelector.
+

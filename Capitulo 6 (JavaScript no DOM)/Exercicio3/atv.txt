@@ -1,0 +1,2 @@
+No mesmo arquivo HTML, altere o conteúdo de cada elemento selecionado
+no exercício anterior usando textContent e innerHTML.
