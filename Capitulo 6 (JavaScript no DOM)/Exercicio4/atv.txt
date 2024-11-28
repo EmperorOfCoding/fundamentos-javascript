@@ -1,0 +1,4 @@
+Manipulacao de Atributos: Adicione um link a uma imagem
+e um link a outra página da web no seu arquivo HTML.
+No seu arquivo JavaScript, altere o destino (href) do link e a imagem (src)
+usando setAttribute

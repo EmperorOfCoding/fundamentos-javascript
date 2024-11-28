@@ -1,0 +1,5 @@
+Adicione vários elementos ao seu arquivo HTML que poderiam
+se beneficiar da estilizacao, como um título, um parágrafo
+de texto e um bloco de conteúdo.
+No seu arquivo JavaScript, altere o estilo desses elementos
+usando style.
