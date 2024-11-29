@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js" defer></script>
+    <title>Manipulando Campos com JavaScript</title>
+</head>
+
+<style>
+    body,
+    html {
+
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+
+    }
+
+    #meuFormulario {
+        font-size: 20px;
+    }
+</style>
+
+<body>
+    <form id="meuFormulario">
+
+        <label for="nome">Nome:</label><br>
+
+        <input type="text" id="nome" name="nome"><br>
+        <input type="checkbox" id="meuCheckbox" name="meu-Checkbox">
+
+        <label for="meuCheckbox">Aceito os termos</label><br>
+
+        <label for="meuSelect">Escolha uma opcao:</label>
+
+        <select name="meuSelect" id="meuSelect">
+            <option value="opcao1">Opcao 1</option>
+            <option value="opcao2">Opcao 2</option>
+            <option value="opcao3">Opcao 3</option>
+        </select>
+    </form>
+</body>
+
+</html>

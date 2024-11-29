@@ -1,0 +1,2 @@
+Adicione um campo de e-mail ao formulário. Quando o formulário for submetido, verifique se o campo de e-mail
+contém um "@" e um "." Se nao contiver, exiba um alerta ao usuário.

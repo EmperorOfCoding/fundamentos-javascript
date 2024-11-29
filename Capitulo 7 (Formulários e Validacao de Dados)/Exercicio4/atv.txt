@@ -1,0 +1,3 @@
+Adicione uma caixa de selecao ao formulário que diga "Eu concordo com os termos e condicoes". 
+Use JavaScript para verificar se a caixa de selecao foi marcada quando o formulário for submetido.
+Se nao foi, exiba um alerta ao usuário.
