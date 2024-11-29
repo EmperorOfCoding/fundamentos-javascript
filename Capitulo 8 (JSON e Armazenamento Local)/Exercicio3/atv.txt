@@ -1,0 +1,2 @@
+Crie um formulário simples com um campo de entrada de texto e um botao. Quando o botao for pressionado
+salve o valor do campo de entrada no armazenamento local.
