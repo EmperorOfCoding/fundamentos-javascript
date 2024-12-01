@@ -1,0 +1,3 @@
+Crie um objeto JavaScript com algumas propriedades. Converta o objeto em uma string JSON 
+e armazene no armazenamento local. Recupere o objeto do armazenamento local, converta-o de volta
+em um objeto JavaScript e imprima no console.

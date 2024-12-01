@@ -1,0 +1,2 @@
+Amplie o formulário do exercício anterior. Adicione outro botao que, quando pressionado, recupera o valor do campo
+de entrada armazenado no armazenamento local e o exibe em um alerta ou em algum elemento da página.

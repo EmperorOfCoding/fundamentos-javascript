@@ -1,0 +1,2 @@
+Adicione mais um botao ao formulario dos exercicios anteriores. Quando este botao for pressionado, ele deve remover
+o valor do campo de entrada do armazenamento local.
