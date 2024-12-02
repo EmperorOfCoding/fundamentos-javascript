@@ -1,0 +1,3 @@
+Manipule uma funcao que retorna uma Promise. A funcao deve retornar uma Promise que se resolve após 3 segundos
+com o valor 10. Use then, catch e finally para manipular a Promise. Imprima o valor quando a Promise é resolvida, Imprima
+um erro se a Promise for rejeitada e imprima "Promise manipulada" no final, independentemente do resultado.

@@ -1,0 +1,3 @@
+Use a Fetch API para fazer uma requisicao POST para 'https://jsonplaceholder.typicode.com/posts'.
+Envie o seguinte objeto como dado: {title: 'Meu Post', body: 'Este é o corpo do meu post', userId: 1 }.
+Imprima a resposta no console.

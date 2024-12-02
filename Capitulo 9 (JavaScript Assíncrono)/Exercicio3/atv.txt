@@ -1,0 +1,2 @@
+Escreva uma funcao assíncrona que faz uma requisicao GET para 'https://jsonpaceholder.typicode.com/posts', converte
+a resposta para JSON e retorna o título do primeiro post.

@@ -1,0 +1,2 @@
+Use a Fetch API para fazer uma requisicao GET para https://jsonplaceholder.typicode.com/users e imprima a resposta
+no console.
